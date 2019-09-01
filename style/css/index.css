@@ -1,0 +1,87 @@
+.ourbody {
+	font-family: 'Open Sans', sans-serif;
+	color:#fffffff0;
+	background-color:#282324;
+	text-transform:uppercase;
+}
+
+body .h2tag {
+	font-weight:400;
+}
+
+.colorvalue {
+   padding-top: 5px;
+   padding-bottom:5px;
+	background: #2495b6;
+}
+
+.square {
+	background :pink;
+	float : left;
+	width : 30%;
+	border-radius: 15%;
+	padding-bottom: 25%;
+	margin:1.66%;
+   transition: background 0.6s;
+}
+
+#conatiner {
+	max-width:600px;
+	margin : 15px auto;
+}
+
+.strip {
+   width:100%;
+   background-color:white;
+   text-align:center;
+   color:blue;
+}
+
+button {
+	background-color:white;
+	margin:0px;
+	border:0px solid white;
+	color:#2495b6;
+	font-weight: 900;
+	letter-spacing: 1px;
+	transition: all 0.3s;
+ }
+	
+
+button:hover {
+    color:white;
+    background-color:#2495b6;
+}
+
+#answer {
+	display:inline-block;
+	width:24%;
+	color:#507661;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+
+#colorresetbutton {
+	
+	text-transform: uppercase;
+}
+
+#easy {
+	
+	text-transform: uppercase;
+}
+
+.defaulthard {
+	 color:white;
+    background-color:#2495b6;
+}
+
+.selectedeasy {
+	 color:white;
+    background-color:#2495b6;
+}
+
+#hard {
+	text-transform: uppercase;
+}
+
